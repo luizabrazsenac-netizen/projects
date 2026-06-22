@@ -1,0 +1,10 @@
+body{
+    background: linear-gradient(135deg, #50db91 0%, #1e90ff 100%);
+    min-height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.game-card{
+    background: white;
+    border-radius: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
